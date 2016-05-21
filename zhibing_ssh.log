@@ -38,3 +38,7 @@
 [WARN][2014-05-06 14:34:25,859][rml.test.TestLog]log warn
 [ERROR][2014-05-06 14:34:25,859][rml.test.TestLog]log error
 [INFO][2014-05-06 14:34:25,937][rml.test.TestSpring]done
+[INFO][2016-05-22 00:03:26,380][rml.test.TestLog]log info
+[WARN][2016-05-22 00:03:26,380][rml.test.TestLog]log warn
+[ERROR][2016-05-22 00:03:26,381][rml.test.TestLog]log error
+[INFO][2016-05-22 00:03:26,386][rml.test.TestSpring]done

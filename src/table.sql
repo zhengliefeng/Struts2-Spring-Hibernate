@@ -6,10 +6,19 @@ create table tuser(
 	MODIFYDATETIME date
 );
 
+--create table tmenu(
+--	id varchar(36) primary key not null,
+--	pid varchar(36) CONSTRAINT fk_column_pid REFERENCES tmenu(id),
+--	text varchar(100),
+--	ICONCLS varchar(50),
+--	URL varchar(200)
+--);
+
 create table tmenu(
 	id varchar(36) primary key not null,
-	pid varchar(36) CONSTRAINT fk_column_pid REFERENCES tmenu(id),
+	pid varchar(36),
 	text varchar(100),
 	ICONCLS varchar(50),
-	URL varchar(200)
+	URL varchar(200),
+	CONSTRAINT FOREIGN KEY (pid) REFERENCES tmenu(id)
 );
