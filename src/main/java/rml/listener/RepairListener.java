@@ -23,7 +23,7 @@ import rml.service.RepairServiceI;
 
 /**
  * 
- * repaire databse when system start up
+ * repair database when system start up
  * 
  */
 public class RepairListener implements ServletContextListener, ServletContextAttributeListener, HttpSessionListener, HttpSessionAttributeListener, HttpSessionActivationListener, HttpSessionBindingListener, ServletRequestListener, ServletRequestAttributeListener {

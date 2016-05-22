@@ -42,3 +42,39 @@
 [WARN][2016-05-22 00:03:26,380][rml.test.TestLog]log warn
 [ERROR][2016-05-22 00:03:26,381][rml.test.TestLog]log error
 [INFO][2016-05-22 00:03:26,386][rml.test.TestSpring]done
+[INFO][2016-05-22 00:21:20,392][rml.test.TestLog]log info
+[WARN][2016-05-22 00:21:20,394][rml.test.TestLog]log warn
+[ERROR][2016-05-22 00:21:20,394][rml.test.TestLog]log error
+[INFO][2016-05-22 00:21:20,399][rml.test.TestSpring]done
+[INFO][2016-05-22 00:23:40,462][rml.test.TestLog]log info
+[WARN][2016-05-22 00:23:40,497][rml.test.TestLog]log warn
+[ERROR][2016-05-22 00:23:40,497][rml.test.TestLog]log error
+[INFO][2016-05-22 00:23:40,502][rml.test.TestSpring]done
+[INFO][2016-05-22 00:55:58,590][rml.test.TestLog]log info
+[WARN][2016-05-22 00:55:58,592][rml.test.TestLog]log warn
+[ERROR][2016-05-22 00:55:58,592][rml.test.TestLog]log error
+[INFO][2016-05-22 00:55:58,597][rml.test.TestSpring]done
+[INFO][2016-05-22 01:27:53,679][rml.test.TestLog]log info
+[WARN][2016-05-22 01:27:53,681][rml.test.TestLog]log warn
+[ERROR][2016-05-22 01:27:53,681][rml.test.TestLog]log error
+[INFO][2016-05-22 01:27:53,685][rml.test.TestSpring]done
+[INFO][2016-05-22 01:40:01,518][rml.test.TestLog]log info
+[WARN][2016-05-22 01:40:01,521][rml.test.TestLog]log warn
+[ERROR][2016-05-22 01:40:01,521][rml.test.TestLog]log error
+[INFO][2016-05-22 01:40:01,525][rml.test.TestSpring]done
+[INFO][2016-05-22 01:50:11,186][rml.test.TestLog]log info
+[WARN][2016-05-22 01:50:11,206][rml.test.TestLog]log warn
+[ERROR][2016-05-22 01:50:11,207][rml.test.TestLog]log error
+[INFO][2016-05-22 01:50:11,214][rml.test.TestSpring]done
+[INFO][2016-05-22 16:18:43,553][rml.test.TestLog]log info
+[WARN][2016-05-22 16:18:43,554][rml.test.TestLog]log warn
+[ERROR][2016-05-22 16:18:43,555][rml.test.TestLog]log error
+[INFO][2016-05-22 16:18:43,560][rml.test.TestSpring]done
+[INFO][2016-05-22 17:06:09,253][rml.test.TestLog]log info
+[WARN][2016-05-22 17:06:09,255][rml.test.TestLog]log warn
+[ERROR][2016-05-22 17:06:09,255][rml.test.TestLog]log error
+[INFO][2016-05-22 17:06:09,263][rml.test.TestSpring]done
+[INFO][2016-05-22 17:34:03,963][rml.test.TestLog]log info
+[WARN][2016-05-22 17:34:03,964][rml.test.TestLog]log warn
+[ERROR][2016-05-22 17:34:03,965][rml.test.TestLog]log error
+[INFO][2016-05-22 17:34:03,969][rml.test.TestSpring]done

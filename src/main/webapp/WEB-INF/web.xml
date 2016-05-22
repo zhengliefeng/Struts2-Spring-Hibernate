@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
 	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
 	<description>Struts2.3.16+Spring3.2.8+Hibernate4.2.11</description>
@@ -61,7 +61,7 @@
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 	</listener>
-	<!-- repaire database listener (should after spring listener)-->
+	<!-- repair database listener (should after spring listener)-->
 	<listener>
 		<listener-class>rml.listener.RepairListener</listener-class>
 	</listener>
